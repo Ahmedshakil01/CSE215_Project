@@ -7,12 +7,12 @@ environment in order to nurture the needs of an end banking user by providing va
 perform banking tasks. The programming language used to develop this system is Java.
 
 Features:
-The main features of the bank management system are:
- User can create new account
- Log in option with account no. and password and Log out option
- User can view his details and can change his password
- User can check his balance
- User can deposit money
- User can withdraw money
- User can transfer money
- User can pay bill
+	The main features of the bank management system are:
+1. User can create new account
+2. Log in option with account no. and password and Log out option
+3. User can view his details and can change his password
+4. User can check his balance
+5. User can deposit money
+6. User can withdraw money
+7. User can transfer money
+8. User can pay bill
