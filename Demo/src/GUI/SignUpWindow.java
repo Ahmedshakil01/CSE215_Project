@@ -244,7 +244,7 @@ public class SignUpWindow extends JFrame implements ActionListener
 				}
 				else
 				{
-					JOptionPane.showMessageDialog(null,"Please fill up all the fields","Failed", JOptionPane.ERROR_MESSAGE );
+					JOptionPane.showMessageDialog(null,"Please fill up all the required information","Failed", JOptionPane.ERROR_MESSAGE );
 				}
 			}
 		}
